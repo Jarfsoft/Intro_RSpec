@@ -2,7 +2,7 @@
 
 # spec/calculator.rb
 
-require '../lib/calculator'
+require './lib/calculator'
 describe Calculator do
   calculator = Calculator.new
   describe '#add' do
