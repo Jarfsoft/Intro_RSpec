@@ -29,11 +29,11 @@ Run tests and see the results
 
 ## Author
 
-**Marcelo Araújo**
+**Juan Raudales**
 
 - GitHub: [@Jarfsoft](https://github.com/Jarfsoft)
 - Twitter: [@Jarfsoft](https://twitter.com/Jarfsoft)
-- LinkedIn: [Marcelo Fernandes de Araújo](https://www.linkedin.com/in/juan-raudales-flores-7b0a3b113/)
+- LinkedIn: [Juan Andrés Raudales Flores](https://www.linkedin.com/in/juan-raudales-flores-7b0a3b113/)
 
 ## Acknowledgements
 - Ruby creators
